@@ -145,5 +145,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 - [Google Text-to-Speech (gTTS)](https://gtts.readthedocs.io/en/latest/) - AI-powered voice generation
 - [ElevenLabs](https://elevenlabs.io/) - High-quality text-to-speech engine
 
+  ![Alt Text](https://github.com/krish38506/AI-DocMate-Smart-Health-Voice-Assistant/blob/main/ai-doc.png)
+
   
 
