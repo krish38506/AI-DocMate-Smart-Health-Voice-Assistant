@@ -96,18 +96,6 @@ AI Doctor with Vision and Voice is an AI-powered medical assistant capable of an
 ├── .env                    # Environment variables file (not shared publicly)
 ├── screenshots/            # Contains images for documentation
 ```
-
-## Example Usage
-
-1. **Upload an Audio File**:
-    ![Upload Audio](screenshots/upload_audio.png)
-
-2. **Upload a Medical Image**:
-    ![Upload Image](screenshots/upload_image.png)
-
-3. **Receive Doctor's Response**:
-    ![Doctor's Response](screenshots/doctor_response.png)
-
 ## Troubleshooting
 
 - **Permission Denied Error**:
