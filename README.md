@@ -135,5 +135,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
   ![Alt Text](https://github.com/krish38506/AI-DocMate-Smart-Health-Voice-Assistant/blob/main/ai-doc.png)
 
+  Deployed: https://huggingface.co/spaces/anandjha38506/ai_docmate_smart_health_voice_assistant
+
   
 
